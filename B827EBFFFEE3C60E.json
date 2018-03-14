@@ -1,0 +1,18 @@
+{ 
+  "gateway_conf": {  
+    "gateway_ID": "B827EBFFFEE3C60E",
+    "servers": [  
+    {    
+        "server_address": "router.eu.thethings.network",    
+        "serv_port_up": 1700,    
+        "serv_port_down": 1700,    
+        "serv_enabled": true   
+    }  
+  ],  
+  "ref_latitude": 51.40398200,  
+  "ref_longitude": 5.76172800,  
+  "ref_altitude": 10,  
+  "contact_email": "basvandrunenlittel@gmail.com",  
+  "description": "TTN Asten" 
+  }
+}
